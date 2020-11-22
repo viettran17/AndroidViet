@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Title_Spinner_Service">Service Rate</string>
+    <string name="Title_Spinner_Food">Food Rate</string>
+    <string name="Title_Spinner_Clean">Clean Rate</string>
+    <string-array name="spinner_food">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="spinner_service">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="spinner_clean">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="appname">AndroidValidationExample</string>
+
+    <string name="nameerror">Enter a valid name</string>
+    <string name="typeerror">Enter a valid type</string>
+    <string name="addresserror">Enter a valid address</string>
+    <string name="priceerror">Enter a valid price</string>
+    <string name="dateerror">Enter a valid date</string>
+    <string name="noteerror">Enter a valid note</string>
+</resources>
